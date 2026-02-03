@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""User contact API params. Mirrors vendor sgc_user_contact_api_params."""
+
+API_USER_CONTACT_API_NAME = "contact"
+API_USER_CONTACT_METHOD_CREATE = "create"
+API_USER_CONTACT_METHOD_READ = "read"
+API_USER_CONTACT_METHOD_UPDATE = "update"
+API_USER_CONTACT_METHOD_DELETE = "delete"
+API_USER_CONTACT_PARAM_GROUP_NAME = "groupname"
+API_USER_CONTACT_PARAM_GROUP_ID = "groupid"
+API_USER_CONTACT_PARAM_CONTACT_NAME = "contactname"
+API_USER_CONTACT_PARAM_MOBILE_NO = "mobileno"
+API_USER_CONTACT_PARAM_CONTACT_ID = "id"
