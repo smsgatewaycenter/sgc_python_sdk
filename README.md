@@ -29,10 +29,8 @@ pip install sgc-python-sdk
 ### From GitHub
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/sgc-python-sdk.git
+pip install git+https://github.com/smsgatewaycenter/sgc_python_sdk.git
 ```
-
-Replace `YOUR_USERNAME` with the actual GitHub username or organization.
 
 ### Local / development
 
