@@ -203,7 +203,3 @@ Boolean parameters such as `testMessage` and `duplicateCheck` must be `"true"` o
   Set `SGC_DEBUG=1` and run your script again; the full URL and body params will be printed (sensitive values masked).
 
 ---
-
-## License
-
-See repository or your project license.
